@@ -191,12 +191,6 @@ Possible extensions to this project include:
 - Visualizing execution-time differences for different input sizes.
 - Creating a more structured benchmark with repeated runs.
 
-## Author
-
-**Mani Ratan**
-
-- GitHub: [@mani787060](https://github.com/mani787060)
-
 ---
 
 If you find this repository useful for learning recursion and dynamic programming, feel free to explore the notebook and share your feedback.
